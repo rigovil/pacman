@@ -1,0 +1,26 @@
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.exe
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.deps.json
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.runtimeconfig.json
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.runtimeconfig.dev.json
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.dll
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.pdb
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.csprojAssemblyReference.cache
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.AssemblyInfoInputs.cache
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.AssemblyInfo.cs
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.dll
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.pdb
+C:\Users\Asus VivoBook\Desktop\IA\Entrenamiento proyecto\Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.genruntimeconfig.cache
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.exe
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.deps.json
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.runtimeconfig.json
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.runtimeconfig.dev.json
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.dll
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\bin\Debug\netcoreapp3.1\Entrenamiento.pdb
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.csprojAssemblyReference.cache
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.AssemblyInfoInputs.cache
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.AssemblyInfo.cs
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.dll
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.pdb
+C:\Users\Sergi\Desktop\Ucr\7 Semestre\CI-0129 Inteligencia Artificial\Pacman\equipo1\Agente PacMan\Proyecto Entrenamiento\Entrenamiento\obj\Debug\netcoreapp3.1\Entrenamiento.genruntimeconfig.cache

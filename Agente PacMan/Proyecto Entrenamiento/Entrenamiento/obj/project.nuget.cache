@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HEKFPSDK6VRyZIXjzi9sDemVZRyDRy9dYPdGwDZLFHb9QO5TV4k5lzYuXWcZevaxHFOxY4ZUEOsbSOAx8mAdbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sergi\\Desktop\\Ucr\\7 Semestre\\CI-0129 Inteligencia Artificial\\Pacman\\equipo1\\Agente PacMan\\Proyecto Entrenamiento\\Entrenamiento\\Entrenamiento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sergi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
